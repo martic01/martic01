@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aboyade%20Matthew&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20MarticAM%20%7C%20Full%20Stack%20Developer%20%26%20Instructor&descAlignY=58&descSize=18" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=670&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aboyade+Matthew+(MarticAM);Full+Stack+Developer+%F0%9F%9A%80;Frontend+bootcamp+%E2%9E%9C;I+build+real-time+games%2C+platforms+%26+creative+web+animations;Open+to+opportunities+%26+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aboyade+Matthew+(MarticAM);Full+Stack+Developer+%F0%9F%9A%80;Frontend+bootcamp+%E2%9E%9C+Frontend+Engineer;I+build+real-time+games%2C+platforms+%26+creative+web+animations;Open+to+opportunities+%26+collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
