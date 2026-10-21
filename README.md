@@ -1,10 +1,9 @@
-<!-- Animated header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aboyade%20Matthew&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20MarticAM%20%7C%20Full%20Stack%20Developer%20%26%20Instructor&descAlignY=58&descSize=18" alt="header" width="100%"/>
+<img src="./header.svg" alt="Aboyade Matthew (MarticAM), Full Stack Developer and Instructor" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aboyade+Matthew+(MarticAM);Full+Stack+Developer+%F0%9F%9A%80;Frontend+bootcamp+%E2%9E%9C+Frontend+Engineer;I+build+real-time+games%2C+platforms+%26+creative+web+animations;Open+to+opportunities+%26+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aboyade+Matthew+(MarticAM);Full+Stack+Developer+%F0%9F%9A%80;Frontend+bootcamp+%E2%9E%9C+Backend+engineer;I+build+real-time+games%2C+platforms+%26+learning+products;Open+to+opportunities+%26+collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,8 +32,8 @@
 
 I'm **Aboyade Matthew**, also known online as **MarticAM**, a **full stack developer** and **instructor** based in **Lagos, Nigeria**. I started out in **frontend bootcamp training**, then grew into **backend development**, and I've worked both as a developer building products and as an instructor supporting coding training programmes.
 
-- 🔭 I build full-stack web apps, real-time multiplayer experiences, and polished front-end animations
-- 🎓 I teach and support learners on their coding journey
+- 🔭 I build full-stack web apps, real-time multiplayer experiences, and learning platforms
+- 🎓 I teach and support learners on their coding journey, and I build the platforms they learn on
 - 🎨 I'm also into animation, filmmaking, music and AI-generated media
 - ✍️ I care about clear, professional writing, in code comments and docs too
 - 🤖 Currently exploring AI agents built on the Claude API
@@ -47,11 +46,11 @@ I'm **Aboyade Matthew**, also known online as **MarticAM**, a **full stack devel
 
 | Channel | Link |
 |---|---|
-| 📧 Email | **your.email@example.com** |
-| 💼 LinkedIn | [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle) |
+| 📧 Email | [aboyadematthew@gmail.com](mailto:aboyadematthew@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/matthew-aboyade-23019a320](https://www.linkedin.com/in/matthew-aboyade-23019a320) |
 | 🐙 GitHub | [@martic01](https://github.com/martic01) |
-| 📱 WhatsApp | **+234 XXX XXX XXXX** |
-| 🌐 Portfolio | [your-portfolio-link](https://your-portfolio-link) |
+| 📱 Phone / WhatsApp | [09125701625](https://wa.me/2349125701625) |
+| 🌐 Portfolio | [marticampf.vercel.app](https://marticampf.vercel.app) |
 
 </div>
 
@@ -95,7 +94,22 @@ I'm **Aboyade Matthew**, also known online as **MarticAM**, a **full stack devel
 
 
 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+
+
+
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
+
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+
+
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 
 
@@ -122,7 +136,7 @@ I'm **Aboyade Matthew**, also known online as **MarticAM**, a **full stack devel
 
 
 
-**Databases & Cloud**
+**Databases, Payments & Cloud**
 
 
 
@@ -156,12 +170,22 @@ I'm **Aboyade Matthew**, also known online as **MarticAM**, a **full stack devel
 
 
 
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logoColor=white)
+
+
+
+
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 
 
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 
 
@@ -221,6 +245,38 @@ I'm **Aboyade Matthew**, also known online as **MarticAM**, a **full stack devel
 ---
 
 ## 🚀 Featured Projects
+
+### 🔥 The Foundry *(currently building)*
+**A cohort-based training and services platform with a public course marketplace, online registration and payments, and separate student, teacher and admin portals.**
+
+🔗 **Live:** [marfoundry.vercel.app](https://marfoundry.vercel.app)
+
+- 🛒 Public course marketplace with prices, availability labels, cohort info and a 3D robot illustration on the landing page
+- 🔐 Google sign-in through Supabase Auth, with role-based access for students, teachers and admins
+- 💳 Paystack checkout with **server-side payment verification** before any registration is recorded
+- 🎓 Student portal: enrolments, class timer, course notes, announcements, receipts and certificates
+- 🧑‍🏫 Teacher portal: assigned batches, student lists, class links, videos, notes and announcements
+- 🛠️ Admin portal: batches, capacities, pricing, payments ledger, certificate awards and content management
+- 🔎 Public certificate verification by certificate ID
+- 🛡️ Postgres Row Level Security, Supabase Realtime updates, and a scheduled Vercel Cron job that cleans up expired content
+- 🎬 Signed server-side video uploads to Cloudinary, with retries for failed uploads
+- **Stack:** Next.js 14 · React 18 · Tailwind CSS · Supabase · Paystack · Cloudinary · EmailJS · Three.js
+
+---
+
+### 🎓 Acedu Coding Bootcamp
+**A production-ready landing website for a modern software development training academy, with a built-in AI assistant.**
+
+🔗 **Live:** [acedu.vercel.app](https://acedu.vercel.app)
+
+- 🌐 Responsive marketing site: Home, About, Courses, Projects, Register and a dedicated AI chat page
+- 🤖 Floating **AI Assistant** that answers questions on courses, fees, duration, careers and enrolment
+- 🧭 **Tutor Mode**: a guided tour that navigates and scrolls through the site, with resume, restart and stop controls and progress saved in `localStorage`
+- 🔌 Optional live AI through a Node/Express backend (DeepSeek or any LLM provider), with deterministic navigation so the AI can't break routing
+- 🖼️ **New Maker**: an admin-only editor for floating image boxes with Cloudinary uploads, scheduling, mobile sizing, animation presets and automatic expiry cleanup
+- **Stack:** React (Vite) · React Router · Tailwind CSS · Framer Motion · Node.js · Express
+
+---
 
 ### ♟️ MarChess & Checkers
 **A full-stack browser strategy game that fuses chess and checkers, with real-time multiplayer.**
@@ -308,17 +364,13 @@ I love pushing what plain **HTML, CSS and JavaScript** can do. Every piece is bu
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=martic01&theme=tokyonight&hide_border=true" alt="Streak"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=martic01&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-
 </div>
 
 ---
 
 ## 🎯 What I'm Up To
 
-- 🔨 Polishing **MarChess & Checkers** and **JobsForJobs**
+- 🔨 Building **The Foundry** and polishing **MarChess & Checkers** and **JobsForJobs**
 - 🤖 Building my **WhatsApp AI agent**
 - 🎓 Mentoring and training new developers
 - 🌱 Learning more about AI-assisted development workflows
@@ -331,19 +383,20 @@ I'm open to **full-time roles, freelance projects, collaborations and instructor
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:aboyadematthew@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/your-handle">
+<a href="https://www.linkedin.com/in/matthew-aboyade-23019a320">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://wa.me/234XXXXXXXXXX">
+<a href="https://wa.me/2349125701625">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://marticampf.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%"/>
 
 *⭐ If you like my work, drop a star on a repo. Thanks for stopping by!*
 
