@@ -56,7 +56,7 @@ I'm **Aboyade Matthew**, also known online as **MarticAM**, a **full stack devel
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div display="flex" align="center">
 
 **Frontend**
 
