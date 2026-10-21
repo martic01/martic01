@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="./header.svg" alt="Aboyade Matthew (MarticAM), Full Stack Developer and Instructor" width="100%"/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aboyade+Matthew+(MarticAM);Full+Stack+Developer+%F0%9F%9A%80;Frontend+bootcamp+%E2%9E%9C+Backend+engineer;I+build+real-time+games%2C+platforms+%26+learning+products;Open+to+opportunities+%26+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aboyade+Matthew+(MarticAM);Full+Stack+Developer+%F0%9F%9A%80;Frontend+bootcamp+%E2%9E%9C+Frontend+engineer;I+build+real-time+games%2C+platforms+%26+learning+products;Open+to+opportunities+%26+collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
